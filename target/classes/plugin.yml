@@ -1,0 +1,7 @@
+name: MiniMCC
+version: '1.0-SNAPSHOT'
+main: mc.miniMCC.MiniMCC
+api-version: '1.21'
+commands:
+  getmeltdownmap:
+    description: get the md map
